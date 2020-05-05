@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a92e48c-81c5-45cc-ab9d-3a74e987270f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bTazWYmm1FdFVVUknRW2gXwVHT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sudoku_solver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sudoku_solver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sudoku.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sudoku_solver" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sudoku_solver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sudoku_solver.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sudokus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="sudoku_solver" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sudokus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.sudokus" />
+        <item itemvalue="Python.sudoku_solver" />
+        <item itemvalue="Python.sudoku" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a92e48c-81c5-45cc-ab9d-3a74e987270f" name="Default Changelist" comment="" />
+      <created>1588658799725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588658799725</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588661866179">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1588661866179" />
+    <state x="627" y="274" width="813" height="579" key="#xdebugger.evaluate" timestamp="1588690528088">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="627" y="274" width="813" height="579" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1588690528088" />
+    <state width="1098" height="466" key="DebuggerActiveHint" timestamp="1588686673311">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1098" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1588686673311" />
+    <state x="507" y="212" key="FileChooserDialogImpl" timestamp="1588663013307">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="212" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1588663013307" />
+    <state width="1398" height="144" key="GridCell.Tab.0.bottom" timestamp="1588690646121">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588690646121" />
+    <state width="1398" height="144" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1588678186369" />
+    <state width="1398" height="144" key="GridCell.Tab.0.center" timestamp="1588690646120">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588690646120" />
+    <state width="1398" height="144" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1588678186367" />
+    <state width="1398" height="144" key="GridCell.Tab.0.left" timestamp="1588690646119">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588690646119" />
+    <state width="1398" height="144" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1588678186365" />
+    <state width="1398" height="144" key="GridCell.Tab.0.right" timestamp="1588690646121">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="144" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588690646121" />
+    <state width="1398" height="144" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1588678186368" />
+    <state width="396" height="801" key="GridCell.Tab.1.bottom" timestamp="1588690623073">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="396" height="801" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588690623073" />
+    <state width="396" height="801" key="GridCell.Tab.1.center" timestamp="1588690623072">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="396" height="801" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588690623072" />
+    <state width="396" height="801" key="GridCell.Tab.1.left" timestamp="1588690623072">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="396" height="801" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588690623072" />
+    <state width="396" height="801" key="GridCell.Tab.1.right" timestamp="1588690623072">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="396" height="801" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588690623072" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1588663015880">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588663015880" />
+    <state x="285" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588688673973">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="285" y="193" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1588688673973" />
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1" timestamp="1588669591666">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="dock-window-1/0.23.1440.831@0.23.1440.831" timestamp="1588669591666" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1588680917679">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1588680917679" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
