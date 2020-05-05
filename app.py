@@ -8,9 +8,9 @@ from sudokus import generate_sudoku
 
 
 class SudokuGUI:
-    def __init__(self, grid: List):
-        self.original_grid = copy.deepcopy(grid)
-        self.grid = grid
+    def __init__(self):
+        self.grid = generate_sudoku()
+        self.original_grid = copy.deepcopy(self.grid)
         self.window = Tk()
         self.window.title('Play a game of sudoku!')
         self.row, self.col = -1, -1
@@ -39,7 +39,7 @@ class SudokuGUI:
 
     def _new_button_clicked(self, event):
         print('New game starting...')
-        self.grid = generate_sudoku('intermediate')
+        self.grid = generate_sudoku()
         self._enter_numbers()
 
     def _solve_button_clicked(self, event):
@@ -131,6 +131,4 @@ class SudokuGUI:
 
 
 if __name__ == '__main__':
-    sudoku_grid = generate_sudoku()
-    print('Starting GUI')
-    SudokuGUI(sudoku_grid)
+    SudokuGUI()

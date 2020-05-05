@@ -10,13 +10,6 @@ grid = [[3, 0, 0, 5, 0, 8, 4, 0, 0],
         [0, 0, 0, 0, 0, 0, 0, 7, 4],
         [0, 0, 5, 2, 0, 6, 3, 0, 0]]
 
-'''
- This sudoku solver is programmed for a classic 9x9 sudoku, it can be easiliy 
- extended to harder sudokus
- Rules: Replace the zeroes with numbers between 1 and 9
-       No duplicates in rows, columns and 3x3 grids
-'''
-
 
 class SudokuSolver:
     def __init__(self):
