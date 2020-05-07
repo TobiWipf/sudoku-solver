@@ -39,7 +39,9 @@ class SudokuGUI:
 
     def _new_button_clicked(self, event):
         print('New game starting...')
+        self.canvas.delete('user_numbers')
         self.grid = generate_sudoku()
+        self.original_grid = self.grid
         self._enter_numbers()
 
     def _solve_button_clicked(self, event):
